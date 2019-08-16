@@ -18,14 +18,14 @@ search: true
 ---
 ![Bsale](https://s3.amazonaws.com/bsalemarket/4/1/logogithub.jpg)
 
-## Bsale API
+# Bsale API
 
 El equipo de Bsale ha puesto a disposición de la comunidad de desarrolladores una API, la cual permite acceder a un conjunto de métodos orientados a facilitar la integración, desde sistemas externos hacia Bsale.
 Estos métodos permitirán obtener información desde Bsale o enviar información hacia la aplicación. Así, por ejemplo, se puede obtener  la lista de productos, generar notas de venta, obtener los documentos generados, etc..
 
 Esta API permite llamadas del tipo [REST] y utiliza [JSON] para el envío y recepción de información.
 
-## Convenciones utilizadas
+# Convenciones utilizadas
 
 * Peticiones sobre SSL
 * Se usan sustantivos, no verbos.
@@ -46,8 +46,8 @@ Si necesitas aprender como trabaja Bsale puedes revisar nuestros videos de [capa
 [REST]:http://es.wikipedia.org/wiki/Representational_State_Transfer
 [JSON]:http://www.json.org/
 [Tiempo Unix]:http://es.wikipedia.org/wiki/Tiempo_Unix
-[capacitación]:https://www.youtube.com/playlist?list=PLPUKtN2zmQABmyQKwpWLPU0DFIQv3FMih
-# Introduction
+
+# Introducción
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
